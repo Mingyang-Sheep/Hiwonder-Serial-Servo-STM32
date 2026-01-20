@@ -1,5 +1,5 @@
 # Hiwonder/Lobot Serial Bus Servo Driver for STM32
-# 幻尔（Lobot）串行总线舵机 STM32 驱动与协议详解
+# 幻尔串行总线舵机 STM32 驱动与协议详解
 
 ![Platform](https://img.shields.io/badge/Platform-STM32-blue) ![Language](https://img.shields.io/badge/Language-C%2F%2FC%2B%2B-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
