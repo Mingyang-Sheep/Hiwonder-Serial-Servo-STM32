@@ -165,7 +165,3 @@ void setServoMotorMode(uint8_t servoID, uint8_t rotationMode, int16_t speed)
 
 This code is for learning and reference purposes. Please ensure your hardware wiring is correct before testing to avoid damaging the servo or the controller.
 本代码仅供学习参考。在测试前请务必确保硬件接线正确，以免损坏舵机或控制器。
-
-```
-
-```
